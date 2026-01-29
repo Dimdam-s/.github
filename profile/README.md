@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.dimdams.com/img/favicon.webp" alt="Dimdam's Logo" width="120" />
+  <img src="https://www.dimdams.com/icon.webp" alt="Dimdam's Logo" width="120" />
   <h1>Dimdam's</h1>
   <p><strong>Hébergement, Développement Web & Logiciel</strong></p>
   

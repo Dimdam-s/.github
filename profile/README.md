@@ -76,6 +76,13 @@ Rencontrez les esprits derrière Dimdam's :
       </a><br />
       👨‍💻 Développeur
     </td>
+    <td align="center">
+      <a href="https://github.com/PlayerNoob-dev">
+        <img src="https://github.com/PlayerNoob-dev.png" width="100px;" alt="PlayerNoob-dev"/><br />
+        <sub><b>PlayerNoob-dev</b></sub>
+      </a><br />
+      😭 Mec Random
+    </td>
   </tr>
 </table>
 

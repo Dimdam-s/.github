@@ -89,5 +89,5 @@ Rencontrez les esprits derrière Dimdam's :
 ---
 
 <div align="center">
-  <p>© 2025 Dimdam's. Tous droits réservés.</p>
+  <p>© 2026 Dimdam's. Tous droits réservés.</p>
 </div>
